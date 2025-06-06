@@ -8,8 +8,8 @@ import path from 'path';
 
 // Configuration
 const BASE_URL = 'https://challenge.sunvoy.com';
-const EMAIL = 'demo@example.org';
-const PASSWORD = 'test';
+const EMAIL = 'your email';
+const PASSWORD = 'your password';
 const SECRET_KEY = 'mys3cr3t';
 const OUTPUT_FILE = 'users.json';
 
