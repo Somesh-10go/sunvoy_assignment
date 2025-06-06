@@ -35,6 +35,7 @@ This project reverse-engineers a legacy web application to extract user data and
 - TypeScript (`npm install -g typescript`)
 - ts-node (`npm install -g ts-node` or install locally)
 
+---
 
 ##    Setup Instructions
 
@@ -43,13 +44,18 @@ This project reverse-engineers a legacy web application to extract user data and
 ```bash
 git clone https://github.com/your-username/sunvoy-assignment.git
 cd sunvoy-challenge
-
+```
 ### 2.  Install Dependencies
 ```bash
 npm install
-
+```
 ### 3. Run the Script
 ```bash
 npm start
+```
+users.json will be created in the root directory with the fetched user data
 
-users.json will be created in the root directory with the fetched user data.
+---
+
+## **Loom Demo Video**
+https://www.loom.com/share/7743bf85309f4f4492b36c40266d4d53?sid=fc58148c-52aa-417b-a296-bdfbe98760de
